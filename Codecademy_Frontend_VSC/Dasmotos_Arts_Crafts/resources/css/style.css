@@ -1,0 +1,43 @@
+
+.general h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: Helvetica;
+
+}
+.banner h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(../images/pattern.jpeg);
+    
+}
+
+.brushes #backgroundcolor {
+    background-color: mediumspringgreen;
+
+}
+
+.general span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames #backgroundcolor{
+    background-color: lightcoral;
+
+
+}
+.frames span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.paint #backgroundcolor {
+    background-color: skyblue;
+}
